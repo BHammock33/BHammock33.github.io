@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A mockup ecommerce site made with react
-subtitle: A react site for buying Sports/Craft Beer gear!
+title: A job board made with Laravel and PHP
+subtitle: I really enjoyed making my first big project with the Laravel Framework
 thumbnail-img: /assets/img/homePage.png
 ---
 
