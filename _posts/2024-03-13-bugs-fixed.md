@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fixed some edge case bugs on my Java DnD App
-subtitle: I really enjoyed making my first big project with the Laravel Framework
+subtitle: Working with SpringMVC and Thymeleaf to deliver dynamic page views
 cover-img: /assets/img/bugsFixedPost.png
 ---
 
